@@ -18,9 +18,8 @@
 
 `npm start`
 
-#### The development server will be available at `http://localhost/undefined/`
+#### The development server will be available at `http://localhost:5000/undefined/`
 
-<br>
 <br>
 
 ### Run tests
